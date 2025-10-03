@@ -25,7 +25,7 @@ TECHNOLOGIES USED
 HOW TO RUN
 
 ~ Clone the repo:
-git clone https://github.com/your-username/user-management-app.git
+git clone https://github.com/rinesaymerii/user-management-app.git
 
 ~ Go to the project folder:
 cd user-management-app
@@ -38,6 +38,7 @@ npm start
 
 Open in browser:
 http://localhost:3000
+
 
 
 
