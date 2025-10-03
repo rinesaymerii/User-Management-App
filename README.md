@@ -2,11 +2,15 @@ USER MANAGEMENT APP
 
 A simple React application for listing, searching and managing users.
 
+
+
 FEATURES
 
 View users with details (name, email, company)
 Search users by name or email
 Manage users (add, edit, delete, sort)
+
+
 
 TECHNOLOGIES USED
 
@@ -15,6 +19,8 @@ JavaScript
 CSS / Tailwind
 React Router
 npm
+
+
 
 HOW TO RUN
 
@@ -32,3 +38,4 @@ npm start
 
 Open in browser:
 http://localhost:3000
+
